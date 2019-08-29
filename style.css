@@ -1,6 +1,8 @@
-html, body {
+* {
   padding: 0;
   margin: 0;
+}
+html, body {
   height: 100%
 }
 header {
@@ -12,16 +14,24 @@ header {
 }
 article {
   background-color: #BCC4DB;
-  padding-left: 20%;
-  padding-right: 20%;
-  height: 70%;
-}
-article h2 {
   text-align: center;
 }
 footer {
   background-color: #7880B5;
   color: white;
   text-align: center;
-  height: 10%;
+  min-height: 10%;
+  padding: 16px;
+}
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
+.part-divider {
+  border: 2px solid black;
+}
+.section-divider {
+  border: 1px solid black;
 }
