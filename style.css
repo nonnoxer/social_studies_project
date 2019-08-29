@@ -33,3 +33,8 @@ footer {
 .section-divider {
   border: 1px solid black;
 }
+.reference {
+  text-indent: -4em;
+	margin-left: 6em;
+  text-align: left;
+}
