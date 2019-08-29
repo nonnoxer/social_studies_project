@@ -10,7 +10,6 @@ header {
   color: white;
   padding: 16px;
   text-align: center;
-  height: 20%;
 }
 article {
   background-color: #BCC4DB;
@@ -20,7 +19,6 @@ footer {
   background-color: #7880B5;
   color: white;
   text-align: center;
-  min-height: 10%;
   padding: 16px;
 }
 .left {
